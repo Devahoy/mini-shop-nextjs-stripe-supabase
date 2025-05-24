@@ -2,6 +2,8 @@
 
 ตัวอย่างการใช้ Next.js + Stripe + Supabase อ่านบทความเพิ่มเติม : https://www.devahoy.com/blog/2025/e-commerce-web-with-nextjs-supabase-stripe
 
+![Screenshot](/demo/next-supabase-stripe.png)
+
 ## วิธีการใช้งาน
 
 ติดตั้ง dependencies
